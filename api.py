@@ -1,3 +1,7 @@
+#  Copyright (c) 2021.
+#  This script is prepared by TechyHans (https://techyhans.com)
+#  Anything please contact him at hanshengliang@outlook.com for more details.
+
 from flask import Flask, send_from_directory, render_template, request
 from flask_cors import CORS
 import cv2
